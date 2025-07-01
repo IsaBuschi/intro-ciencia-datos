@@ -1,4 +1,4 @@
-Este repositorio contiene las entregas de Lucia Gutierrez e Isabella Buschiazzo correspondientes a las Tareas 1 y 2 del curso Introducción a la Ciencia de Datos 2025. 
+Este repositorio contiene las entregas de Lucia Gutierrez e Isabella Buschiazzo correspondientes a las Tareas 1, 2 y la Tarea final del curso Introducción a la Ciencia de Datos 2025. 
 
 En la carpeta "Tarea 2" se encuentra:
 
@@ -23,3 +23,14 @@ En la carpeta "Tarea 2" se encuentra:
 8. "us2020_propuesta_estudiantes_BarakObama_LR.ipynb": Archivo con un set de de datos compuesto por los candidatos Joe Biden, Dondald Trump y Barack Obama. Aplicación de todos los (5) pasos de pretratamiento mencionados en el informe. PCA con unigramas. Evaluación del modelo Logistic Regression.
 
 9. "us2020_propuesta_estudiantes_BarakObama_LinearSVM.ipynb": Archivo con un set de de datos compuesto por los candidatos Joe Biden, Dondald Trump y Barack Obama. Aplicación de todos los (5) pasos de pretratamiento mencionados en el informe. PCA con unigramas. Evaluación del modelo Linear SVC.
+
+
+En la carpeta "Tarea Final" se encuentra:
+
+1. wine+quality: la carpeta con el dataset.
+
+2. Tarea final_Buschiazzo Isabella y Gutierrez Lucia.pdf: el informe
+
+3.código TF.ipynb: el código. Aunque no es requerido como parte de la tarea, se realizó un código a modo de aprendizaje y prueba. 
+
+End
